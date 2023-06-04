@@ -1,0 +1,31 @@
+.divStyle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.styleH1 {
+  background-color: yellow;
+  color: grey;
+  padding: 20px;
+}
+
+.imgStyle {
+  border-radius: 50%;
+}
+
+.styleH2 {
+  padding: 20px;
+  font: bold;
+  background-color: blue;
+}
+
+.spanOne {
+  background-color: green;
+  color: white;
+}
+
+.spanTwo {
+  background-color: white;
+  color: green;
+}
